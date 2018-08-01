@@ -1,0 +1,40 @@
+.container {
+background: #eeeeee;
+
+}
+#header {
+    line-height: 100px;
+    height: 100px;
+    font-weight: 600;
+    font-size: 40px;
+}
+
+#placeholder {
+    height: 150px;
+    width: 270px;
+    position: relative;
+    margin-right: 10px;
+
+}
+
+p {
+    position: relative;
+}
+
+#footer-body {
+    position: relative; 
+}
+
+
+#footer {
+    height: 50px;
+    position: relative;
+}
+
+#copyright {
+    text-align: center;
+    width: 100%;
+}
+
+#form-body {
+}
