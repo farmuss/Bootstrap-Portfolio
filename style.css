@@ -13,7 +13,7 @@ background: #eeeeee;
     height: 150px;
     width: 270px;
     position: relative;
-    margin-right: 10px;
+    margin: 10px;
 
 }
 
@@ -37,4 +37,10 @@ p {
 }
 
 #form-body {
+}
+
+#portfolio {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
 }
