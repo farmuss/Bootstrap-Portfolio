@@ -44,3 +44,7 @@ p {
     font-size: 40px;
     font-weight: 600;
 }
+
+#picmargins {
+    margin: 10px;
+}
